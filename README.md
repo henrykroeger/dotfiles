@@ -20,16 +20,16 @@ Fonts: [Fira Code](https://github.com/tonsky/FiraCode), [Font Awesome](https://f
 
 ### Additional Dependencies
 [`feh`](https://github.com/derf/feh) -- sets wallpaper<br>
-[`playerctl`](https://github.com/altdesktop/playerctl) -- spotify polybar module<br>
-[`imagema
+[`playerctl`](https://github.com/altdesktop/playerctl) -- used in spotify polybar module<br>
 `xss-lock` -- controls locker for `i3lock`
+[ImageMagick](https://imagemagick.org/) -- used in lockscreen blur
 
 ### Configuration
 1. Move wallpaper to `wallpaper.png` in `.scripts/wallpaper/set_wallpaper.sh`
 2. Edit `i3lock_options` image path in `.scripts/i3lock/transfer-sleep-lock-i3lock.sh`
 
 ### Keymap
-* Windows key is MOD.
+* `MOD` is the Windows key.
 * `i3-gaps` uses vim movement bindings.
 * `MOD+x` puts a screenshot in `pictures`
 
