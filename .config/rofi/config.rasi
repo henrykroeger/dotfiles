@@ -1,0 +1,7 @@
+configuration {
+    modi: "window,drun,combi";
+    theme: "colors-rofi-light";
+    font: "Fira Code 16";
+    combi-modi: "window,drun";
+    }
+
