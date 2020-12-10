@@ -34,4 +34,4 @@ Fonts: [Fira Code](https://github.com/tonsky/FiraCode), [Font Awesome](https://f
 * `MOD+x` puts a screenshot in `pictures`
 
 ### Wallpaper
-![wallpaper](https://github.com/henrykroeger/dotfiles/blob/main/.scripts/wallpaper/wallpaper.png)
+![wallpaper](https://github.com/henrykroeger/dotfiles/blob/main/.scripts/wallpaper/wallpaper.jpg)
