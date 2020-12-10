@@ -33,5 +33,9 @@ Fonts: [Fira Code](https://github.com/tonsky/FiraCode), [Font Awesome](https://f
 * `i3-gaps` uses vim movement bindings.
 * `MOD+x` puts a screenshot in `pictures`
 
+### Theme
+[`nord`](https://github.com/arcticicestudio/nord)
+
 ### Wallpaper
-![wallpaper](https://github.com/henrykroeger/dotfiles/blob/main/.scripts/wallpaper/wallpaper.jpg)
+![wallpaper](https://github.com/henrykroeger/dotfiles/blob/main/.scripts/wallpaper/wallpaper.jpg)<br>
+[Source](https://www.ghibli.jp/works/chihiro/)
